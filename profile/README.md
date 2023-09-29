@@ -14,7 +14,8 @@ For further details and the full text of the manifesto, you can visit the [OpenT
 
 ## Contact
 
-[OpenTofu Github Discussions]([https://github.com/orgs/opentofu/discussions])
-[Community Slack]([https://join.slack.com/t/opentofucommunity/shared_invite/zt-237chyryd-mFULiefrbYGMYQoG72BUpQ])
+[OpenTofu Github Discussions](https://github.com/orgs/opentofu/discussions)
+
+[Community Slack](https://join.slack.com/t/opentofucommunity/shared_invite/zt-237chyryd-mFULiefrbYGMYQoG72BUpQ)
 
 
