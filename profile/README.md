@@ -14,5 +14,7 @@ For further details and the full text of the manifesto, you can visit the [OpenT
 
 ## Contact
 
-If you have questions or feedback to share, you can reach the team behind this manifesto by emailing us at [pledge@opentf.org](mailto:pledge@opentf.org).
+[OpenTofu Github Discussions]([https://github.com/orgs/opentofu/discussions])
+[Community Slack]([https://join.slack.com/t/opentofucommunity/shared_invite/zt-237chyryd-mFULiefrbYGMYQoG72BUpQ])
+
 
